@@ -1,0 +1,4 @@
+#include <stdio.h>
+printf("hello world");
+1+23-4..5.6*7890
+he=1;//sjdhsakd
